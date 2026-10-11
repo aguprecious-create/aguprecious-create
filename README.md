@@ -27,7 +27,7 @@ In this project, I used SQL, Python, and Power BI to:
 * Examine data quality and the dataset’s supplied risk-review indicator.
 * Develop business insights and recommendations.
 
-View my FinTrust project
+View my FinTrust project 
 
 🌱 What I’m Working On
 
